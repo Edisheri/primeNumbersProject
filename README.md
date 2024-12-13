@@ -20,6 +20,7 @@
 ---
 
 ## **Структура проекта**
+```
 primeNumbersProject/
 ├── cmd/
 │   └── app/
@@ -34,7 +35,7 @@ primeNumbersProject/
 │   └── performance_test.go    # Тесты производительности
 ├── go.mod                     # Управление зависимостями
 ├── README.md                  # Документация
-
+```
 
 
 ## **Установка и запуск**
